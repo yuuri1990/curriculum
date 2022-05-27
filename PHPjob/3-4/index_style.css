@@ -1,0 +1,19 @@
+body {
+    text-align:center;
+    background-color: gray;
+    color :white;
+    font-family:"MS PMincho" ;
+}
+
+
+h1{
+    font-family:"MS PMincho" ;
+    color: white;
+    border-bottom: solid 3px white;
+    margin-top: 200px;
+
+}
+
+form{
+    margin-top: 50px;
+}
